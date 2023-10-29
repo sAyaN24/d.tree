@@ -80,8 +80,8 @@ for i in keywords:
         cnt += 1
 print(f'still empty : {cnt}')
 
-word = "notch"
-replace_word = "DISPLAY"
+word = "process"
+replace_word = "PROCESSOR"
 count = 0
 
 for i in keywords:
