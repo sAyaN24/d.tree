@@ -1,0 +1,743 @@
+{
+    "32 GB": {
+        "category": "STORAGE"
+    },
+    "packaged": {
+        "category": "VENDOR_SERVICE"
+    },
+    "galaxy": {
+        "category": "NA"
+    },
+    "home button": {
+        "category": "SOFTWARE"
+    },
+    "mini": {
+        "category": "NA"
+    },
+    "time settings": {
+        "category": "SOFTWARE"
+    },
+    "Camera": {
+        "category": "CAMERA"
+    },
+    "refill card": {
+        "category": "STORAGE"
+    },
+    "prices": {
+        "category": "VFM"
+    },
+    "pocket": {
+        "category": "VFM"
+    },
+    "display": {
+        "category": "DISPLAY"
+    },
+    "voice reception": {
+        "category": "AUDIO"
+    },
+    "screen": {
+        "category": "DISPLAY"
+    },
+    "gsm": {
+        "category": "CONNECTIVITY"
+    },
+    "asthetic": {
+        "category": "LOOK"
+    },
+    "shipping": {
+        "category": "VENDOR_SERVICE"
+    },
+    "16GB": {
+        "category": "RAM"
+    },
+    "menus": {
+        "category": "SOFTWARE"
+    },
+    "photographs": {
+        "category": "CAMERA"
+    },
+    "features": {
+        "category": "HARDWARE"
+    },
+    "white": {
+        "category": "LOOK"
+    },
+    "performed": {
+        "category": "HARDWARE"
+    },
+    "screens": {
+        "category": "DISPLAY"
+    },
+    "Smart Phone Plan": {
+        "category": "CONNECTIVITY"
+    },
+    "smart": {
+        "category": "SOFTWARE"
+    },
+    "USE": {
+        "category": "SOFTWARE"
+    },
+    "working": {
+        "category": "NA"
+    },
+    "Works": {
+        "category": "NA"
+    },
+    "1080 display": {
+        "category": "DISPLAY"
+    },
+    "Shipping": {
+        "category": "VENDOR_SERVICE"
+    },
+    "charging": {
+        "category": "CHARGER"
+    },
+    "starting up": {
+        "category": "OS"
+    },
+    "SD card": {
+        "category": "STORAGE"
+    },
+    "technology": {
+        "category": "OS"
+    },
+    "mms": {
+        "category": "CONNECTIVITY"
+    },
+    "manuals": {
+        "category": "MANUAL"
+    },
+    "speed": {
+        "category": "HARDWARE"
+    },
+    "Battery life": {
+        "category": "BATTERY"
+    },
+    "deal": {
+        "category": "VENDOR_SERVICE"
+    },
+    "sound": {
+        "category": "AUDIO"
+    },
+    "specs": {
+        "category": "HARDWARE"
+    },
+    "Description": {
+        "category": "MANUAL"
+    },
+    "guide": {
+        "category": "MANUAL"
+    },
+    "1080p display": {
+        "category": "DISPLAY"
+    },
+    "aps": {
+        "category": "SOFTWARE"
+    },
+    "applications": {
+        "category": "SOFTWARE"
+    },
+    "google play": {
+        "category": "SOFTWARE"
+    },
+    "Products": {
+        "category": "NA"
+    },
+    "back button": {
+        "category": "SOFTWARE"
+    },
+    "options": {
+        "category": "SOFTWARE"
+    },
+    "user": {
+        "category": "NA"
+    },
+    "start menu": {
+        "category": "SOFTWARE"
+    },
+    "Features": {
+        "category": "HARDWARE"
+    },
+    "buy": {
+        "category": "VENDOR_SERVICE"
+    },
+    "cords": {
+        "category": "CHARGER"
+    },
+    "battery charge": {
+        "category": "BATTERY"
+    },
+    "sync": {
+        "category": "SOFTWARE"
+    },
+    "gps": {
+        "category": "HARDWARE"
+    },
+    "charging port": {
+        "category": "CHARGER"
+    },
+    "apps": {
+        "category": "SOFTWARE"
+    },
+    "watch videos": {
+        "category": "SOFTWARE"
+    },
+    "settings": {
+        "category": "SOFTWARE"
+    },
+    "charge": {
+        "category": "CHARGER"
+    },
+    "data": {
+        "category": "STORAGE"
+    },
+    "agent": {
+        "category": "NA"
+    },
+    "Android OS": {
+        "category": "OS"
+    },
+    "bezel": {
+        "category": "DISPLAY"
+    },
+    "functionality": {
+        "category": "HARDWARE"
+    },
+    "bugs": {
+        "category": "SOFTWARE"
+    },
+    "billfold case": {
+        "category": "NA"
+    },
+    "storage": {
+        "category": "STORAGE"
+    },
+    "texts": {
+        "category": "NA"
+    },
+    "micro SD card": {
+        "category": "STORAGE"
+    },
+    "functions": {
+        "category": "NA"
+    },
+    "Att personnel": {
+        "category": "NA"
+    },
+    "response": {
+        "category": "NA"
+    },
+    "card": {
+        "category": "STORAGE"
+    },
+    "scratches": {
+        "category": "HARDWARE"
+    },
+    "SIM": {
+        "category": "CONNECTIVITY"
+    },
+    "function": {
+        "category": "HARDWARE"
+    },
+    "sounds": {
+        "category": "AUDIO"
+    },
+    "whistles": {
+        "category": "AUDIO"
+    },
+    "experience": {
+        "category": "HARDWARE"
+    },
+    "Samsung": {
+        "category": "NA"
+    },
+    "Keyboard": {
+        "category": "KEYBOARD"
+    },
+    "keyboard layout": {
+        "category": "KEYBOARD"
+    },
+    "Performance": {
+        "category": "HARDWARE"
+    },
+    "policy": {
+        "category": "MANUAL"
+    },
+    "camera": {
+        "category": "CAMERA"
+    },
+    "Sim card": {
+        "category": "CONNECTIVITY"
+    },
+    "Wi": {
+        "category": "CONNECTIVITY"
+    },
+    "capabilities": {
+        "category": "HARDWARE"
+    },
+    "space": {
+        "category": "STORAGE"
+    },
+    "performs": {
+        "category": "HARDWARE"
+    },
+    "looks": {
+        "category": "LOOK"
+    },
+    "delivered": {
+        "category": "VENDOR_SERVICE"
+    },
+    "accessories": {
+        "category": "ACCESSORIES"
+    },
+    "arrival time": {
+        "category": "VENDOR_SERVICE"
+    },
+    "SIM cards": {
+        "category": "CONNECTIVITY"
+    },
+    "SIM Card": {
+        "category": "CONNECTIVITY"
+    },
+    "size": {
+        "category": "STORAGE"
+    },
+    "learning": {
+        "category": "NA"
+    },
+    "cracks": {
+        "category": "HARDWARE"
+    },
+    "iphone": {
+        "category": "NA"
+    },
+    "processes": {
+        "category": "HARDWARE"
+    },
+    "pictures": {
+        "category": "CAMERA"
+    },
+    "weight": {
+        "category": "HARDWARE"
+    },
+    "OTA updates": {
+        "category": "OS"
+    },
+    "connection": {
+        "category": "CONNECTIVITY"
+    },
+    "sim": {
+        "category": "CONNECTIVITY"
+    },
+    "Bluetooth": {
+        "category": "CONNECTIVITY"
+    },
+    "flexibility": {
+        "category": "NA"
+    },
+    "delivery time": {
+        "category": "VENDOR_SERVICE"
+    },
+    "ram": {
+        "category": "RAM"
+    },
+    "Battery": {
+        "category": "BATTERY"
+    },
+    "customer support": {
+        "category": "SERVICE"
+    },
+    "pula": {
+        "category": "NA"
+    },
+    "box": {
+        "category": "NA"
+    },
+    "S4": {
+        "category": "NA"
+    },
+    "instructions": {
+        "category": "MANUAL"
+    },
+    "custom ROMs": {
+        "category": "OS"
+    },
+    "rear speaker": {
+        "category": "AUDIO"
+    },
+    "bells": {
+        "category": "AUDIO"
+    },
+    "Packaged": {
+        "category": "SERVICE"
+    },
+    "browse web": {
+        "category": "SOFTWARE"
+    },
+    "hardware": {
+        "category": "HARDWARE"
+    },
+    "Android system": {
+        "category": "OS"
+    },
+    "sim card reader": {
+        "category": "CONNECTIVITY"
+    },
+    "sim card readers": {
+        "category": "CONNECTIVITY"
+    },
+    "swiping": {
+        "category": "SOFTWARE"
+    },
+    "charger": {
+        "category": "CHARGER"
+    },
+    "charging cavle": {
+        "category": "CHARGER"
+    },
+    "recovery mode": {
+        "category": "SOFTWARE"
+    },
+    "sim - cards": {
+        "category": "CONNECTIVITY"
+    },
+    "battery life": {
+        "category": "BATTERY"
+    },
+    "does": {
+        "category": "NA"
+    },
+    "crowds": {
+        "category": "NA"
+    },
+    "cosmetic": {
+        "category": "LOOK"
+    },
+    "games": {
+        "category": "SOFTWARE"
+    },
+    "32 gig": {
+        "category": "STORAGE"
+    },
+    "texting": {
+        "category": "SOFTWARE"
+    },
+    "bottom": {
+        "category": "NA"
+    },
+    "WiFi": {
+        "category": "CONNECTIVITY"
+    },
+    "design": {
+        "category": "LOOK"
+    },
+    "sound quality": {
+        "category": "AUDIO"
+    },
+    "cam": {
+        "category": "CAMERA"
+    },
+    "feature": {
+        "category": "HARDWARE"
+    },
+    "Picture quality": {
+        "category": "CAMERA"
+    },
+    "equipment": {
+        "category": "ACCESSORIES"
+    },
+    "Wi - Fi": {
+        "category": "CONNECTIVITY"
+    },
+    "price": {
+        "category": "VFM"
+    },
+    "calls": {
+        "category": "CONNECTIVITY"
+    },
+    "pixels": {
+        "category": "CAMERA"
+    },
+    "used": {
+        "category": "NA"
+    },
+    "designs": {
+        "category": "LOOK"
+    },
+    "reception": {
+        "category": "NA"
+    },
+    "phone": {
+        "category": "NA"
+    },
+    "android": {
+        "category": "SOFTWARE"
+    },
+    "runs": {
+        "category": "NA"
+    },
+    "ship": {
+        "category": "VENDOR_SERVICE"
+    },
+    "screen protector": {
+        "category": "ACCESSORIES"
+    },
+    "software": {
+        "category": "SOFTWARE"
+    },
+    "FIT": {
+        "category": "NA"
+    },
+    "condition": {
+        "category": "HARDWARE"
+    },
+    "sim card": {
+        "category": "CONNECTIVITY"
+    },
+    "bloatware": {
+        "category": "SOFTWARE"
+    },
+    "description": {
+        "category": "MANUAL"
+    },
+    "charger port": {
+        "category": "CHARGER"
+    },
+    "Android": {
+        "category": "SOFTWARE"
+    },
+    "ringer": {
+        "category": "AUDIO"
+    },
+    "security": {
+        "category": "SECURITY"
+    },
+    "lcd": {
+        "category": "DISPLAY"
+    },
+    "back": {
+        "category": "SOFTWARE"
+    },
+    "quality": {
+        "category": "HARDWARE"
+    },
+    "sims": {
+        "category": "CONNECTIVITY"
+    },
+    "packaging": {
+        "category": "VENDOR_SERVICE"
+    },
+    "Delivery": {
+        "category": "VENDOR_SERVICE"
+    },
+    "resolution": {
+        "category": "DISPLAY"
+    },
+    "case": {
+        "category": "ACCESSORIES"
+    },
+    "work": {
+        "category": "NA"
+    },
+    "hand": {
+        "category": "NA"
+    },
+    "Sim cards": {
+        "category": "CONNECTIVITY"
+    },
+    "contract": {
+        "category": "SOFTWARE"
+    },
+    "Screen": {
+        "category": "DISPLAY"
+    },
+    "earphone": {
+        "category": "ACCESSORIES"
+    },
+    "phone service": {
+        "category": "SERVICE"
+    },
+    "using": {
+        "category": "NA"
+    },
+    "multi screen": {
+        "category": "DISPLAY"
+    },
+    "screen resolution": {
+        "category": "DISPLAY"
+    },
+    "air controls": {
+        "category": "SOFTWARE"
+    },
+    "talk": {
+        "category": "CONNECTIVITY"
+    },
+    "value": {
+        "category": "VFM"
+    },
+    "seller": {
+        "category": "VENDOR_SERVICE"
+    },
+    "led notification light": {
+        "category": "HARDWARE"
+    },
+    "plastic rim": {
+        "category": "HARDWARE"
+    },
+    "durable": {
+        "category": "HARDWARE"
+    },
+    "pen": {
+        "category": "ACCESSORIES"
+    },
+    "LED notification light": {
+        "category": "HARDWARE"
+    },
+    "phone Applications": {
+        "category": "SOFTWARE"
+    },
+    "package": {
+        "category": "SOFTWARE"
+    },
+    "OEM": {
+        "category": "SERVICE"
+    },
+    "stuff": {
+        "category": "NA"
+    },
+    "sim card adapter": {
+        "category": "CONNECTIVITY"
+    },
+    "priced": {
+        "category": "VFM"
+    },
+    "app": {
+        "category": "SOFTWARE"
+    },
+    "battery time": {
+        "category": "BATTERY"
+    },
+    "battery": {
+        "category": "BATTERY"
+    },
+    "SIM card": {
+        "category": "CONNECTIVITY"
+    },
+    "left earbud": {
+        "category": "AUDIO"
+    },
+    "Phone": {
+        "category": "NA"
+    },
+    "shape": {
+        "category": "LOOK"
+    },
+    "works": {
+        "category": "NA"
+    },
+    "KitKat software": {
+        "category": "SOFTWARE"
+    },
+    "operate": {
+        "category": "SOFTWARE"
+    },
+    "call quality": {
+        "category": "CONNECTIVITY"
+    },
+    "service": {
+        "category": "SERVICE"
+    },
+    "TouchWiz": {
+        "category": "DISPLAY"
+    },
+    "manual": {
+        "category": "MANUAL"
+    },
+    "money": {
+        "category": "VFM"
+    },
+    "photos": {
+        "category": "CAMERA"
+    },
+    "color": {
+        "category": "LOOK"
+    },
+    "system management": {
+        "category": "SOFTWARE"
+    },
+    "learn": {
+        "category": "NA"
+    },
+    "picture quality": {
+        "category": "CAMERA"
+    },
+    "shipped": {
+        "category": "VENDOR_SERVICE"
+    },
+    "plastic screen protector": {
+        "category": "ACCESSORIES"
+    },
+    "programs": {
+        "category": "SOFTWARE"
+    },
+    "cell": {
+        "category": "BATTERY"
+    },
+    "wall charger": {
+        "category": "CHARGER"
+    },
+    "waterproof features": {
+        "category": "HARDWARE"
+    },
+    "processor": {
+        "category": "HARDWARE"
+    },
+    "screen size": {
+        "category": "DISPLAY"
+    },
+    "worked": {
+        "category": "NA"
+    },
+    "use": {
+        "category": "NA"
+    },
+    "delivery": {
+        "category": "VENDOR_SERVICE"
+    },
+    "operating system": {
+        "category": "SOFTWARE"
+    },
+    "wifi": {
+        "category": "CONNECTIVITY"
+    },
+    "headset": {
+        "category": "ACCESSORIES"
+    },
+    "back case": {
+        "category": "ACCESSORIES"
+    },
+    "Pictures": {
+        "category": "CAMERA"
+    },
+    "sellers": {
+        "category": "VENDOR_SERVICE"
+    },
+    "memory": {
+        "category": "STORAGE"
+    },
+    "Screens": {
+        "category": "DISPLAY"
+    },
+    "set up": {
+        "category": "SOFTWARE"
+    },
+    "SHIPPER": {
+        "category": "VENDOR_SERVICE"
+    },
+    "privacy": {
+        "category": "SECURITY"
+    },
+    "bottom buttons": {
+        "category": "SOFTWARE"
+    }
+}
